@@ -2,7 +2,7 @@
 <body>
 <h1><font color='red'> Successfully Deplopyed Project 2 <font></h1>
 
-<a href="http://www.youtube.com/@LearnWithKASTRO">Click Here To See My YouTube Channel</a>
+<a href="https://www.linkedin.com/in/suguresh-a03522218">Click Here To See My LinkedIn profile</a>
   
   <h2> Thank you</h2>
   
